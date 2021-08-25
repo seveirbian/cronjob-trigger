@@ -37,7 +37,7 @@ require (
 	github.com/pkg/errors v0.0.0-20180311214515-816c9085562c // indirect
 	github.com/prometheus/client_model v0.0.0-20150212101744-fa8ad6fec335 // indirect
 	github.com/prometheus/common v0.0.0-20170427095455-13ba4ddd0caa // indirect
-	github.com/sirupsen/logrus v0.0.0-20180129181852-768a92a02685
+	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/cobra v0.0.1
 	github.com/spf13/pflag v1.0.1 // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
